@@ -69,7 +69,7 @@ job-market-dashboard/
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/yourusername/job-market-dashboard.git
+git clone https://github.com/anuragsingh24082004/job-market-analysis.git
 cd job-market-dashboard
 ```
 
