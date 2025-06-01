@@ -108,5 +108,5 @@ This project is open-source under the MIT License.
 
 ## 👨‍💻 Developed By
 
-**[Your Name]** — Data Science Enthusiast  
-📫 [Your Email or LinkedIn]
+* ANURAG SINGH * — Data Science Enthusiast  
+Email - anuragsingh212003@gmail.com 
